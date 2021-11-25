@@ -1,5 +1,3 @@
-# Distracted-Driver-Detection--DeepLearning
-
 # Deep learning classification model to detect the driver state  :
 ___
 > - In this project our task was to get a dataset to build an deep learning classification model,
