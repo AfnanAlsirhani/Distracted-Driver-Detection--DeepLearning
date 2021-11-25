@@ -21,7 +21,7 @@ ___
 > - c8: hair and makeup
 > - c9: talking to passenger
 
-<img src="data-img.png">
+<img src="data-img.gif">
 
  # Tools:
 ___
